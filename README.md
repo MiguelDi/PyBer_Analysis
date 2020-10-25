@@ -37,7 +37,7 @@ Between the the months of January 2019 and April 2019, total rides were distribu
 
 As seen in the chart below, urban areas made up 68.4% of total rides during this time period, with Suburban areas making up 26.3% and Rural areas at 5.3% of total rides.
 #### % of Total Rides by City Type
-![% of total rides by city type]main/analysis/Fig6.png)
+![](Analysis/Fig6.png)
 
 ### Total Drivers per Area Type
 (See fig 1, above)
