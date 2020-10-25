@@ -91,13 +91,3 @@ The average fares per rider for Rural areas was 49.7% of the total fares per rid
   Based solely on the graph "Total Fares per Type Per Week" there does not appear to be any forseeable trends.  There are peaks and valleys, but no discernable trends based on time.  However when the Pyber Ride Summary DataFrame (Fig 1) is analysed there are noticable trends. Total rides, total drivers and total fares are consistantly and substantially higher for urban areas.  Using the data provided, this is easily explained.  Urban areas have substantily larger populations as compared to suburban and rural areas, therefore it is logical to assume that the more people living in a designated area, the more people there are utilizing PyBer.
   
   The average fare per driver and average fare per rider at first glance may seem confusing.  Based on the data, the average fares per rider and driver are substantially higher for Rural areas, especially when compared to the data points in  Urban areas.  Although the data was not provided for this report, it can be safely inferred that the higher rates in Rural areas are based on the average distances between a rider's starting location and destination.   In Rural areas, there are, on average, much greater distances between locations than you would find in a suburban or urban setting.  For example, in a Suburban or Urban area, you are far more likely to have several supermarkets within a  small geographical area, whereas in a Rural area, there maybe one supermarket within a 10 mile radius.
-  
-### Business Reommendations
- .1 Further analysis including data based on peak usage times. 
- - This will give a much clearer picture if there are real trends based on time of usage. This would have the   further benefit of showing if there is a substantial drop in  riders during these peak time periods.
- 
- .2 Lower the rates for rural areas.  
- - Since riders are having to pay higher fares incured by the greater distances between destinations, lowering the rates per minute should encourage more usage of Pyber by those living in rural areas.
- 
- .3 Decrease the number of drivers in Urban areas.
- - This will insure that our drivers in urban area are able to make rates that keep them satisfied with their income.  Satisfied employees produce satisfied customers.
