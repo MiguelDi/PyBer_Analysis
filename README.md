@@ -18,7 +18,7 @@ All data is based on data recieved between January 2019 and late April 2019.  Dr
 ### Resources
 - Data Source: city_data.csv, ride_data.csv
 - Software:
- - Python 3.6.1
+ - Python 3.7.7
  - Pandas
  - Matplotlib
 
@@ -49,7 +49,7 @@ Between the the months of January 2019 and April 2019, total number of drivers w
 
 As seen in the chart below, Urban areas made up 80.9% of total number of drivers during this time period, with Suburban area making up 16.5% and Rural areas at 2.6% of total number of drivers.
 #### % of Total Drivers by City Type
-![% of total drivers by city type](httpalysis/Fig7.png)
+![](Analysis/Fig7.png))
 
 ### Total Fares per Area Type
 (See fig 1, above)
@@ -61,7 +61,7 @@ Between the the months of January 2019 and April 2019, total amount of fares wer
 
 As seen in the chart below, Urban areas made up 62.7% of total amount of fares during this time period, with Suburban areas making up 30.5% and Rural areas at 6.8% of total number of drivers.
 #### % of Total Fares by City Type
-![% ot Total fares by City Type](https://github.com/stephenanayashilliard/PyBer_Analysis/blofig5
+![](Analysis/Fig5.png)
 
 ### Average Fare per Rider per Area Type
 (See fig 1, above)
@@ -85,7 +85,7 @@ The average fares per rider for Rural areas was 49.7% of the total fares per rid
 
 ### Total Fares per Type per Week
 #### Graph:  Total Fare by City Type
-![Total Fare by City Type](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/ma
+![](Analysis/PyBer_fare_summary.png)
 
 ## Summary
   Based solely on the graph "Total Fares per Type Per Week" there does not appear to be any forseeable trends.  There are peaks and valleys, but no discernable trends based on time.  However when the Pyber Ride Summary DataFrame (Fig 1) is analysed there are noticable trends. Total rides, total drivers and total fares are consistantly and substantially higher for urban areas.  Using the data provided, this is easily explained.  Urban areas have substantily larger populations as compared to suburban and rural areas, therefore it is logical to assume that the more people living in a designated area, the more people there are utilizing PyBer.
