@@ -1,19 +1,16 @@
 # PyBer_Analysis
 
 ## Overview
-the following report was created for Pyber,  a ride-sharing app company valued at aproximately $2.3 billion dollars.
+The following report was created for Pyber,  a ride-sharing app company valued at aproximately $2.3 billion dollars.
 
-### Purpose
+### Data 
 Using Python, Pandas and Matplotlib, we were tasked to create multiple graphs and charts illustrating the following:
 - Total Rides per Area Type
 - Total Drivers per Area Type
 - Total Fares per Area Type
 - Average Fare per Rider per Area Type
 - Average Fare per Driver per Area Type
-- Total Fares by City Type
-
-In addition a written report summarizing the data as well written recomendations for future business developement were requested.
-All data is based on data recieved between January 2019 and late April 2019.  Driving areas were broken down into 3 categories: Rural, Suburban, and urban areas.
+- Total Fares by City Type.
 
 ### Resources
 - Data Source: city_data.csv, ride_data.csv
@@ -22,7 +19,7 @@ All data is based on data recieved between January 2019 and late April 2019.  Dr
  - Pandas
  - Matplotlib
 
-## Results of Analyis
+## Results of Analysis
 
 ### Fig 1: PyBer Ride Summary DataFrame
 ![](Resources/PyBer_Ride.png)
