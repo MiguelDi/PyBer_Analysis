@@ -25,7 +25,7 @@ All data is based on data recieved between January 2019 and late April 2019.  Dr
 ## Results of Analyis
 
 ### Fig 1: PyBer Ride Summary DataFrame
-![Pyber Ride Summary](https://github.com/stephensources/PyBer_Ride_summary.png)
+![](Resources/PyBer_fare_summary.png)
 
 ### Total Rides per Area Type
 (See fig 1, above)
